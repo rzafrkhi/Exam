@@ -17,3 +17,9 @@
 .green-text{
     color: var(--green-color);
 }
+.card-body{
+    background-color: #F6F9FF;
+}
+.card{
+    border-radius: 5rem;
+}
