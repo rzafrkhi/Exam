@@ -1,0 +1,19 @@
+:root{
+    --b-color:#239BD8;
+    --gray-color:#7C8DB0;
+    --green-color:#22C3A6;
+
+}
+.nav-menu{
+    background-color: var(--b-color);
+}
+
+.blue{
+    color: var(--b-color);
+}
+.gray-text{
+    color: var(--gray-color);
+}
+.green-text{
+    color: var(--green-color);
+}
