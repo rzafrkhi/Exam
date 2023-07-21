@@ -23,3 +23,26 @@
 .card{
     border-radius: 5rem;
 }
+
+.search{
+    background-color: #239BD8;
+    border-bottom: 1px solid white;
+    padding: 3px;
+}
+
+.search>input {
+    background-color: #239BD8;
+    border: none;
+    outline: none;
+}
+
+.search>input::placeholder {
+    color: white;
+}
+
+.select{
+    background-color: #239BD8;
+    border: none;
+    outline-color: white;
+    font-size: 12px;
+}
